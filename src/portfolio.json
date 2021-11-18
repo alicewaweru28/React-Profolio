@@ -1,0 +1,34 @@
+[
+    {
+        "id": 1,
+        "name": "Tech Blog",
+        "image": "https://github.com/fondofhats/tech-blog/raw/main/tech-blog.png",
+        "github": "https://github.com/alicewaweru28/tech-blog",
+        "deploy": "https://intense-dawn-84284.herokuapp.com/",
+        "topics": "Node, sequelize, handlebars, express-session, jawsdb, mysql, model-view-controller, dotenv"
+    },
+    {
+        "id": 2,
+        "name": "Weather Dashboard",
+        "image": "https://github.com/fondofhats/weather-dashboard/raw/master/weather-dashboard.png",
+        "github": "https://github.com/alicewaweru28/weather-app",
+        "deploy": "https://alicewaweru28.github.io/weather-app/",
+        "topics": "moment.js, javascript, jQuery, localStorage, API"
+    },
+    {
+        "id": 3,
+        "name": "Budget Tracker", 
+        "image": "https://github.com/fondofhats/pwa-budget-tracker/raw/main/docs/pwa-budget-tracker.png",
+        "github": " https://github.com/alicewaweru28/budget--tracker",
+        "deploy": "https://immense-escarpment-03497.herokuapp.com/",
+        "topics": "node, express, javascript, mongoDB, mongoose, nodemon"
+    },
+    {
+        "id": 4,
+        "name": " Daily Planner",
+        "image": "https://github.com/fondofhats/workday-scheduler/raw/master/workday-scheduler.png",
+        "github": "https://github.com/alicewaweru28/Daily--Planner",
+        "deploy": "https://alicewaweru28.github.io/Daily--Planner/",
+        "topics": "HTML5, CSS, Javascript, JQuery, Bootstrap"
+    }
+]
